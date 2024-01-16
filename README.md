@@ -1,1 +1,2 @@
 # UpperLower_Factorization
+In this project, I implemented an LU decomposition algorithm in Python to efficiently solve linear systems of equations. The code takes user input for the matrix order and coefficients, performs LU factorization, and displays the LU matrix along with the set of solutions. This project not only demonstrates my proficiency in numerical computations but also showcases my commitment to writing clean and well-commented code. Explore the repository to delve into the world of numerical algorithms and their Python implementations.
